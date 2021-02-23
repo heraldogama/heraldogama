@@ -8,4 +8,4 @@ Atualmente, estou focado no uso e aprendizado de novas tecnologias, entre elas: 
 
 I started in technology in 1986, where I focused on the development area until arriving at Visua Objects 2.8, also going through hardware, networks, servers (FreeBSD and Linux).
 Since 2012, I have maintained MS-Windows software (written in Visual Objects / PostgreSQL) focused on health. Where I manage clinics and doctors' offices; From the Electronic Patient Record, Image exam reports to the financial.
-I am currently focused on using and learning new technologies, including: C ++ / Qt / QML, JavaScript, TypeScript, NodeJS, ReactJS, NextJS, ReactNative, Git.
+I am currently focused on using and learning new technologies, including: C ++ / Qt / QML, JavaScript, TypeScript, NodeJS, ReactJS, NextJS, ReactNative, Python, Git.
